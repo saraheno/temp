@@ -1,0 +1,6 @@
+cmsrel CMSSW_7_6_3
+cd CMSSW_7_6_3/src
+cmsenv
+git clone https://github.com/saraheno/temp.git
+cd temp
+make
